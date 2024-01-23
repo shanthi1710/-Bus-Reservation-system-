@@ -23,10 +23,12 @@ This project is a basic implementation of a Bus Ticket Reservation System using 
    ```bash
    gcc main.c -o bus_reservation
   ```
-4. Run the executable:
-   ```bash
+
+3. Run the executable:
+
+    ```bash
    ./bus_reservation
-  ```
+     ```
 ## Usage
 Follow the on-screen instructions to navigate through the menu and perform actions such as reserving a ticket or viewing available buses.
 
